@@ -1,3 +1,11 @@
+## Cole's React Quiz Builder
+
+This is my first react project! Following the post on [medium](https://medium.com/@dtkatz/10-react-starter-project-ideas-to-get-you-coding-5b35782e1831). Needless to say I have no idea what I'm doing - I worked on this project while reading [this excellent tutorial](http://www.react.express/). The code is pretty heavily commented, so it might help others who are just starting out with react as well. 
+
+## More about Cole
+
+I'm a self-taught programmer, working mostly with php/javascript. I develop Wordpress sites for small businesses, as well as other web-based applications here and there. I'm currently looking for a remote job in IT - and for this purpose I am learning React, as it is highly sought after. Please visit [my website](http://www.coleatkinson.nz)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
